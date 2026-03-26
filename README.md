@@ -1,4 +1,8 @@
 ## Hi there 👋
+Name - Yuvraj Mall
+Branch - CSE CORE
+Year - 1st Year
+About me - i want to learn programming and build strong problem-solving skills
 
 <!--
 **YuvrajMall25/YuvrajMall25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
